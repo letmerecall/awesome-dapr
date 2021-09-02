@@ -14,14 +14,14 @@
     - [Community](#community)
 
 ### SDK
-* [Go-sdk](https://github.com/dapr/go-sdk) - Dapr SDK for Go
-* [Java-sdk](https://github.com/dapr/java-sdk) - Dapr SDK for Java
-* [JS-sdk](https://github.com/dapr/js-sdk) - Dapr SDK for JavaScript
-* [Python-sdk](https://github.com/dapr/python-sdk) - Dapr SDK for Python
-* [Dotnet-sdk](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET Core
-* [Rust-sdk](https://github.com/dapr/rust-sdk) - Dapr SDK for Rust
-* [Cpp-sdk](https://github.com/dapr/cpp-sdk) - Dapr SDK for C++
-* [PHP-sdk](https://github.com/dapr/php-sdk) - Dapr SDK for PHP
+* [Go SDK](https://github.com/dapr/go-sdk) - Dapr SDK for Go
+* [Java SDK](https://github.com/dapr/java-sdk) - Dapr SDK for Java
+* [JS SDK](https://github.com/dapr/js-sdk) - Dapr SDK for JavaScript
+* [Python SDK](https://github.com/dapr/python-sdk) - Dapr SDK for Python
+* [Dotnet SDK](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET Core
+* [Rust SDK](https://github.com/dapr/rust-sdk) - Dapr SDK for Rust
+* [C++ SDK](https://github.com/dapr/cpp-sdk) - Dapr SDK for C++
+* [PHP SDK](https://github.com/dapr/php-sdk) - Dapr SDK for PHP
 
 ### Books
 * [Introducing Distributed Application Runtime (Dapr)](https://www.apress.com/gp/book/9781484269978) - Simplifying microservices spplications development through proven and reusable patterns and practices
