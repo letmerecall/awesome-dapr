@@ -14,14 +14,14 @@
     - [Community](#community)
 
 ### SDK
+* [C++ SDK](https://github.com/dapr/cpp-sdk) - Dapr SDK for C++
+* [Dotnet SDK](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET Core
 * [Go SDK](https://github.com/dapr/go-sdk) - Dapr SDK for Go
 * [Java SDK](https://github.com/dapr/java-sdk) - Dapr SDK for Java
 * [JS SDK](https://github.com/dapr/js-sdk) - Dapr SDK for JavaScript
-* [Python SDK](https://github.com/dapr/python-sdk) - Dapr SDK for Python
-* [Dotnet SDK](https://github.com/dapr/dotnet-sdk) - Dapr SDK for .NET Core
-* [Rust SDK](https://github.com/dapr/rust-sdk) - Dapr SDK for Rust
-* [C++ SDK](https://github.com/dapr/cpp-sdk) - Dapr SDK for C++
 * [PHP SDK](https://github.com/dapr/php-sdk) - Dapr SDK for PHP
+* [Python SDK](https://github.com/dapr/python-sdk) - Dapr SDK for Python
+* [Rust SDK](https://github.com/dapr/rust-sdk) - Dapr SDK for Rust
 
 ### Books
 * [Introducing Distributed Application Runtime (Dapr)](https://www.apress.com/gp/book/9781484269978) - Simplifying microservices spplications development through proven and reusable patterns and practices
@@ -29,8 +29,8 @@
 * [Practical Microservices with Dapr and .NET](https://www.packtpub.com/product/practical-microservices-with-dapr-and-net/9781800568372) - A developer's guide to building cloud-native applications using the Dapr event-driven runtime.
 
 ### Community
-* [Mailing List](https://groups.google.com/forum/#!forum/dapr-dev) - Offical mailing list for Dapr.
-* [Discord](https://aka.ms/dapr-discord) - Dapr's Discord server.
 * [Dapr Blog](https://blog.dapr.io/posts) - Dapr's official blog.
+* [Discord](https://aka.ms/dapr-discord) - Dapr's Discord server.
+* [Mailing List](https://groups.google.com/forum/#!forum/dapr-dev) - Offical mailing list for Dapr.
 * [Twitter](https://twitter.com/daprdev) - Dapr's Twitter handle.
 * [YouTube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA) - Dapr's YouTube channel.
