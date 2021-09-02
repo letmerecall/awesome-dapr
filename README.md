@@ -11,6 +11,7 @@
 - [Awesome Dapr](#awesome-dapr)
     - [SDK](#sdk)
     - [Books](#books)
+    - [Community](#community)
 
 ### SDK
 * [Go-sdk](https://github.com/dapr/go-sdk) - Dapr SDK for Go
@@ -26,3 +27,9 @@
 * [Introducing Distributed Application Runtime (Dapr)](https://www.apress.com/gp/book/9781484269978) - Simplifying microservices spplications development through proven and reusable patterns and practices
 * [Learning Dapr](https://www.oreilly.com/library/view/learning-dapr/9781492072416/) - Building distributed cloud native applications.
 * [Practical Microservices with Dapr and .NET](https://www.packtpub.com/product/practical-microservices-with-dapr-and-net/9781800568372) - A developer's guide to building cloud-native applications using the Dapr event-driven runtime.
+
+### Community
+* [Mailing List](https://groups.google.com/forum/#!forum/dapr-dev) - Offical mailing list for Dapr.
+* [Discord](https://aka.ms/dapr-discord) - Dapr's Discord server.
+* [Twitter](https://twitter.com/daprdev) - Dapr's Twitter handle.
+* [YouTube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA) - Dapr's YouTube channel.
