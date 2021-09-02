@@ -31,5 +31,6 @@
 ### Community
 * [Mailing List](https://groups.google.com/forum/#!forum/dapr-dev) - Offical mailing list for Dapr.
 * [Discord](https://aka.ms/dapr-discord) - Dapr's Discord server.
+* [Dapr Blog](https://blog.dapr.io/posts) - Dapr's official blog.
 * [Twitter](https://twitter.com/daprdev) - Dapr's Twitter handle.
 * [YouTube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA) - Dapr's YouTube channel.
