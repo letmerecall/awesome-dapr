@@ -6,6 +6,8 @@
 
 [Dapr](https://en.wikipedia.org/wiki/Dapr) (Distributed Application Runtime) is a free and open source runtime system designed to support [cloud native](https://en.wikipedia.org/wiki/Cloud_native_computing) and [serverless computing](https://en.wikipedia.org/wiki/Serverless_computing). Its initial release supported SDKs and APIs for Java, .NET, Python, and Go, and targeted the [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) cloud deployment system.
 
+Contributions are welcome. Add links through [pull requests](https://github.com/letmerecall/awesome-dapr/pulls) or create an [issue](https://github.com/letmerecall/awesome-dapr/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
+
 ## Contents
 
 - [Awesome Dapr](#awesome-dapr)
