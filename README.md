@@ -13,6 +13,7 @@ Contributions are welcome. Add links through [pull requests](https://github.com/
 - [Awesome Dapr](#awesome-dapr)
     - [SDK](#sdk)
     - [Books](#books)
+    - [Videos and Talks](#videos-and-talks)
     - [Community](#community)
 
 ### SDK
@@ -30,6 +31,10 @@ Contributions are welcome. Add links through [pull requests](https://github.com/
 * [Learning Dapr](https://www.oreilly.com/library/view/learning-dapr/9781492072416/) - Building distributed cloud native applications.
 * [Practical Microservices with Dapr and .NET](https://www.packtpub.com/product/practical-microservices-with-dapr-and-net/9781800568372) - A developer's guide to building cloud-native applications using the Dapr event-driven runtime.
 * [Dapr for .NET Developers](https://dotnet.microsoft.com/en-us/download/e-book/dapr/pdf) - This guide has been written to cover the Dapr 1.5 version. .NET samples are based on .NET 6.
+
+
+### Videos and Talks
+* [Zero to Hero with Dapr](https://www.youtube.com/watch?v=AAQSShtl9S0)
 
 
 ### Community
