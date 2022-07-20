@@ -13,6 +13,7 @@ Contributions are welcome. Add links through [pull requests](https://github.com/
 - [Awesome Dapr](#awesome-dapr)
     - [SDK](#sdk)
     - [Books](#books)
+    - [Articles](#articles)
     - [Videos and Talks](#videos-and-talks)
     - [Community](#community)
 
@@ -31,6 +32,12 @@ Contributions are welcome. Add links through [pull requests](https://github.com/
 * [Learning Dapr](https://www.oreilly.com/library/view/learning-dapr/9781492072416/) - Building distributed cloud native applications.
 * [Practical Microservices with Dapr and .NET](https://www.packtpub.com/product/practical-microservices-with-dapr-and-net/9781800568372) - A developer's guide to building cloud-native applications using the Dapr event-driven runtime.
 * [Dapr for .NET Developers](https://dotnet.microsoft.com/en-us/download/e-book/dapr/pdf) - This guide has been written to cover the Dapr 1.5 version. .NET samples are based on .NET 6.
+
+
+### Articles
+* [Microsoft's DAPR (Distributed Application Runtime)](https://hackernoon.com/microsofts-dapr-distributed-application-runtime-an-overview-nd2m34gj) - An Overview of Dapr.
+* [Simplify Distributed Application Complexity with Dapr](https://newrelic.com/blog/best-practices/simplify-distributed-application-complexity-with-dapr)
+* [Build and deploy microservices with Kubernetes and Dapr](https://developers.redhat.com/articles/2021/08/12/build-and-deploy-microservices-kubernetes-and-dapr#)
 
 
 ### Videos and Talks
