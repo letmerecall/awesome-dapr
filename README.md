@@ -29,6 +29,8 @@ Contributions are welcome. Add links through [pull requests](https://github.com/
 * [Introducing Distributed Application Runtime (Dapr)](https://www.apress.com/gp/book/9781484269978) - Simplifying microservices spplications development through proven and reusable patterns and practices
 * [Learning Dapr](https://www.oreilly.com/library/view/learning-dapr/9781492072416/) - Building distributed cloud native applications.
 * [Practical Microservices with Dapr and .NET](https://www.packtpub.com/product/practical-microservices-with-dapr-and-net/9781800568372) - A developer's guide to building cloud-native applications using the Dapr event-driven runtime.
+* [Dapr for .NET Developers](https://dotnet.microsoft.com/en-us/download/e-book/dapr/pdf) - This guide has been written to cover the Dapr 1.5 version. .NET samples are based on .NET 6.
+
 
 ### Community
 * [Dapr Blog](https://blog.dapr.io/posts) - Dapr's official blog.
